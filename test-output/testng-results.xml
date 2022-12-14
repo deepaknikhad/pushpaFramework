@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-13T17:19:52 IST" name="Default suite" finished-at="2022-12-13T17:20:16 IST" duration-ms="23840">
+    <groups>
+    </groups>
+    <test started-at="2022-12-13T17:19:52 IST" name="Default test" finished-at="2022-12-13T17:20:16 IST" duration-ms="23840">
+      <class name="Test.TestHome">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.TestHome@2b662a77]" started-at="2022-12-13T17:19:52 IST" name="setup" finished-at="2022-12-13T17:20:15 IST" duration-ms="22904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verify()[pri:0, instance:Test.TestHome@2b662a77]" started-at="2022-12-13T17:20:15 IST" name="Verify" finished-at="2022-12-13T17:20:16 IST" duration-ms="398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Test.TestHome@2b662a77]" started-at="2022-12-13T17:20:16 IST" name="close" finished-at="2022-12-13T17:20:16 IST" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Test.TestHome -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
